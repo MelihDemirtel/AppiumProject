@@ -15,10 +15,13 @@ Projenin kopyalanması:
 https://github.com/MelihDemirtel/AppiumProject.git
 ```
 
-[Java kurulumu:](https://www.java.com/en/download/)
-[Android Studio kurulumu:](https://developer.android.com/studio)
-[Appium kurulumu:](http://appium.io/docs/en/about-appium/getting-started/)
-[Maven kurulumu:](https://maven.apache.org/install.html)
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &emsp; [Java kurulumu:](https://www.java.com/en/download/)
+ 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="androidstudio" width="147" height="35"/> &emsp; [Android Studio kurulumu:](https://developer.android.com/studio)
+ 
+<a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="appium" width="80" height="40"/> &emsp; [Appium kurulumu:](http://appium.io/docs/en/about-appium/getting-started/)
+
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1200px-Apache_Maven_logo.svg.png" alt="apache" width="147" height="35"/> &emsp; [Maven kurulumu:](https://maven.apache.org/install.html)
 
 ## Nasıl Kullanılır?
 1. Proje klonlanır veya indirilir.
