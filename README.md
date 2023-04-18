@@ -21,7 +21,7 @@ https://github.com/MelihDemirtel/AppiumProject.git
  
 <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="appium" width="60" height="40"/> &emsp; [Appium kurulumu](http://appium.io/docs/en/about-appium/getting-started/)
 
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1200px-Apache_Maven_logo.svg.png" alt="apache" width="60" height="40"/> &emsp; [Maven kurulumu](https://maven.apache.org/install.html)
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1200px-Apache_Maven_logo.svg.png" alt="apache" width="60" height="30"/> &emsp; [Maven kurulumu](https://maven.apache.org/install.html)
 
 ## Nasıl Kullanılır?
 1. Proje klonlanır veya indirilir.
