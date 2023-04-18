@@ -15,7 +15,7 @@ Projenin kopyalanması:
 https://github.com/MelihDemirtel/AppiumProject.git
 ```
 
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/> &emsp; [Java kurulumu](https://www.java.com/en/download/)
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/> &emsp; [Java kurulumu](https://www.java.com/en/download/)
  
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="androidstudio" width="60" height="40"/> &emsp; [Android Studio kurulumu](https://developer.android.com/studio)
  
